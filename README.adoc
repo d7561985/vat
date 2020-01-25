@@ -1,0 +1,11 @@
+== Belarus VAT helper for Individual employer ("ИП") for 5% rate at simplify approach.
+
+== dev
+Linter:
+
+[source,bash]
+----
+$ GO111MODULE=off go get -u github.com/golangci/golangci-lint/cmd/golangci-lint
+----
+
+
